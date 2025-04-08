@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Empresas de alimentos de Bolivia </title>
+    <title>Empresas de alimentos de Bolivia</title>
     <link rel="stylesheet" href="pintura.css" />
 </head>
 <body>
